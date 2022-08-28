@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 1
     },
     {
       "id": 2,
@@ -37,10 +37,10 @@
       "price": 25.99
     },
     {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "name": "Gaurav Narayan Varma",
+      "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/1.jpg",
+      "price": "0.01",
+      "id": 7
     }
   ]
 }
